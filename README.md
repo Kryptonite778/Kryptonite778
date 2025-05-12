@@ -6,7 +6,11 @@
 
 <h3 align="center"> A passionate full-stack problem solver </h3>
 
-![Pixel Art Coding GIF by SMOL](https://github.com/user-attachments/assets/42706196-fc58-497e-a429-3b6eb405b5bd)
+<div align ="center">
+ <img
+     src="https://github.com/user-attachments/assets/42706196-fc58-497e-a429-3b6eb405b5bd)" width="150"
+     alt="Cool Hacker">
+</div>
 
  <br/>
 
