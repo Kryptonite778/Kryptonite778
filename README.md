@@ -6,6 +6,8 @@
 
 <h3 align="center"> A passionate full-stack problem solver </h3>
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBrczh5aXFlczJ0eG01eGJjbGdqZmZseTdjYmdldHpydGZ1bHUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif
+ 
 <br/>
 
 <div align="center">
