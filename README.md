@@ -8,7 +8,7 @@
 
 <div align ="center">
  <img
-     src="https://github.com/user-attachments/assets/42706196-fc58-497e-a429-3b6eb405b5bd" width="150"
+     src="https://github.com/user-attachments/assets/983b4eb8-f049-4ddd-a096-7d731b351983" width="150"
      alt="Cool Hacker">
 </div>
 
