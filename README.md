@@ -6,9 +6,9 @@
 
 <h3 align="center"> A passionate full-stack problem solver </h3>
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBrczh5aXFlczJ0eG01eGJjbGdqZmZseTdjYmdldHpydGZ1bHUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif
- 
-<br/>
+![Pixel Art Coding GIF by SMOL](https://github.com/user-attachments/assets/42706196-fc58-497e-a429-3b6eb405b5bd)
+
+ <br/>
 
 <div align="center">
  
