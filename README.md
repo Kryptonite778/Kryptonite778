@@ -16,9 +16,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Economics**
+ 🔭 I’m currently studying **Economics with Astronomy & AstroPhysics**
  
- 🌱 I’m currently learning **Matplotlib/Scipy/Numpy, LLM's, Agile, Jira, Manual testing**
+ 🌱 I’m currently learning **Matplotlib/Scipy/Numpy, LLM's, Agile, Jira, Manual testing, Cosmology, Stars-Galaxies**
 
 💬 Ask me about **Python, IDE's, Packages/Library's, Linux/Ubuntu... or anything related to programming**
 
