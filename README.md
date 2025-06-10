@@ -8,7 +8,7 @@
 
 <div align ="center">
  <img
-     src="[[https://github.com/user-attachments/assets/983b4eb8-f049-4ddd-a096-7d731b351983](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3M212eXU3eHVnYmpoemhtOWRwemljNWExcDl6MGhlaGx0ejZscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3M212eXU3eHVnYmpoemhtOWRwemljNWExcDl6MGhlaGx0ejZscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif)" width="150"
+     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo5cjduejdrcXlyb2oyb2IwMng0Z2UzYjcxZnNjcXB0MWhoOTBubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="150"
      alt="Cool Hacker">
 </div>
 
