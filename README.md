@@ -16,7 +16,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Economics with Astronomy & AstroPhysics**
+ 🔭 I’m currently studying **Economics Astronomy & AstroPhysics**
+
+🎓 Currently studying Psychology & Neuroscience (Online course – Yale University via Coursera)
  
  🌱 I’m currently learning **Matplotlib/Scipy/Numpy, LLM's, Agile, Jira, Manual testing, Cosmology, Stars-Galaxies**
 
