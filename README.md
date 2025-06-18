@@ -22,7 +22,7 @@
  
  🌱 I’m currently learning **Matplotlib/Scipy/Numpy, LLM's, Agile, Jira, Manual testing, Cosmology, Stars-Galaxies**
 
-💬 Ask me about **Python, IDE's, Packages/Library's, Linux/Ubuntu... or anything related to programming**
+💬 Ask me about **Python, IDE's, Packages/Library's, Linux/Ubuntu... or anything related to programming, gaming, musics, love xD**
 
 ⚡ Fun fact **The thirty-three thieves thought that they thrilled the throne throughout Thursday**
 
