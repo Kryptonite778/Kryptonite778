@@ -11,7 +11,7 @@ I’m Aiman, an Astronomy & Astrophysics student currently working as a **Comput
 
 My work focuses on **software quality, system reliability, and network fundamentals**, with experience in testing, analysis, and system-level thinking.
 
-This profile documents my projects, labs, and learning journey across **QA, networking, and engineering systems**.
+This profile documents my projects, labs, and learning journey across **QA, networking, and system engineering**.
 
 ---
 
