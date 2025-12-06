@@ -25,7 +25,6 @@ This profile documents my projects, labs, and learning journey across **QA, netw
 ---
 
 ### Engineering & Networking
-- Cisco Module 1 (completed)
 - IPv4 & IPv6 addressing
 - Subnetting (VLSM)
 - DHCP, Static & Dynamic IP configuration
