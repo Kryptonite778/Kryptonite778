@@ -48,8 +48,8 @@ This profile documents my projects, labs, and learning journey across **QA, netw
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,kali,html,css,vscode,pycharm,github,gitlab,git,blender,stackoverflow,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,notion,mongodb,matlab,mysql,figma,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=kali,html,css,vscode,pycharm,github,gitlab,git,blender,stackoverflow,postman,docker," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,notion,mongodb,matlab,mysql,figma,c#" /><br>
 </div>
 
 <br/>
