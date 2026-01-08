@@ -7,13 +7,12 @@
 <div align="left">
 Hey there 👋
 
-I’m Aiman, an Astronomy & Astrophysics student currently working as a **Computational Imaging Analyst at DURBIN, IUB**.
+I’m Aiman, an Astronomy & Astrophysics student.
 
 My work focuses on **software quality, system reliability, and network fundamentals**, with experience in testing, analysis, and system-level thinking.
 
 This profile documents my projects, labs, and learning journey across **QA, networking, and system engineering**.
 
----
 
 ### Tools & Skills
 - Manual testing, test cases & scenarios  
