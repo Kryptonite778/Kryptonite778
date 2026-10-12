@@ -7,27 +7,19 @@
 <div align="left">
 I am Aiman Sheikh | An Astronomy & Astrophysics student.
 
-My work focuses on **software quality, system reliability, and network fundamentals**, with experience in testing, analysis, and system-level thinking.
+## 🔧 Technical Focus Areas
+* **Network Engineering:** System topologies, data transmission protocols, infrastructure routing, and network optimization.
+* **Data Processing & Analytics:** Advanced image calibration, signal-to-noise optimization, and pipeline automation.
+* **Academic Research:** Deep learning frameworks for computer vision and data mining configurations.
 
-This profile documents my projects, labs, and learning journey across **QA, networking, and system engineering**.
+## 📚 Published Research & Papers
+* **Crowd Detection and Analysis for Surveillance Videos Using Deep Learning** | *AIP Conference Proceedings*
+* **Sales Analysis Using Data Mining** | *International Journal of Advanced Research in Science Communication and Technology*
 
-
-### Tools & Skills
-- Manual testing, test cases & scenarios  
-- API testing with Postman  
-- Test management: Trello, Jira  
-- CI/CD (learning): Newman, Jenkins  
-- Performance testing: JMeter  
-
----
-
-### Engineering & Networking
-- IPv4 & IPv6 addressing
-- Subnetting (VLSM)
-- DHCP, Static & Dynamic IP configuration
-- Network simulation using Cisco Packet Tracer
-
----
+## 🌐 Connect With Me
+* 💼 **Professional Network:** [My LinkedIn Profile]((https://www.linkedin.com/in/aimansheikh778/))
+* 🔬 **Academic Portfolio:** [My ResearchGate Profile](https://www.researchgate.net/profile/Aiman-Sheikh-3?ev=hdr_xprf)
+* 🌌 **Astrophotography Data Processing:** [My AstroBin Profile](https://app.astrobin.com/u/aiman)
 
  </div>
  
