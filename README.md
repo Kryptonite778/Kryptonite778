@@ -5,7 +5,7 @@
 </h1>
 <br>
 <div align="left">
-An Astronomy & Astrophysics student.
+I am Aiman Sheikh | An Astronomy & Astrophysics student.
 
 My work focuses on **software quality, system reliability, and network fundamentals**, with experience in testing, analysis, and system-level thinking.
 
