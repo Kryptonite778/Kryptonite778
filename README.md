@@ -16,10 +16,10 @@ I am Aiman Sheikh | An Astronomy & Astrophysics student.
 * **Crowd Detection and Analysis for Surveillance Videos Using Deep Learning** | *AIP Conference Proceedings*
 * **Sales Analysis Using Data Mining** | *International Journal of Advanced Research in Science Communication and Technology*
 
-## 🌐 Connect With Me
 * 💼 **Professional Network:** [My LinkedIn Profile](www.linkedin.com/in/aimansheikh778)
-* 🔬 **Academic Portfolio:** [My ResearchGate Profile](https://www.researchgate.net/profile/Aiman-Sheikh-3?ev=hdr_xprf)
-* 🌌 **Astrophotography Data Processing:** [My AstroBin Profile](https://app.astrobin.com/u/aiman)
+* 🔬 **Academic Portfolio:** [My ResearchGate Profile](https://researchgate.net)
+* 🌌 **Astrophotography Data Processing:** [My AstroBin Profile](https://astrobin.com)
+
 
  </div>
  
