@@ -17,7 +17,7 @@ I am Aiman Sheikh | An Astronomy & Astrophysics student.
 * **Sales Analysis Using Data Mining** | *International Journal of Advanced Research in Science Communication and Technology*
 
 ## 🌐 Connect With Me
-* 💼 **Professional Network:** [My LinkedIn Profile]((https://www.linkedin.com/in/aimansheikh778/))
+* 💼 **Professional Network:** [My LinkedIn Profile](www.linkedin.com/in/aimansheikh778)
 * 🔬 **Academic Portfolio:** [My ResearchGate Profile](https://www.researchgate.net/profile/Aiman-Sheikh-3?ev=hdr_xprf)
 * 🌌 **Astrophotography Data Processing:** [My AstroBin Profile](https://app.astrobin.com/u/aiman)
 
