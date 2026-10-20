@@ -7,14 +7,7 @@
 <div align="left">
 I am Aiman Sheikh | An Astronomy & Astrophysics student.
 
-## 🔧 Technical Focus Areas
-* **Network Engineering:** System topologies, data transmission protocols, infrastructure routing, and network optimization.
-* **Data Processing & Analytics:** Advanced image calibration, signal-to-noise optimization, and pipeline automation.
-* **Academic Research:** Deep learning frameworks for computer vision and data mining configurations.
-
-## 📚 Published Research & Papers
-* **Crowd Detection and Analysis for Surveillance Videos Using Deep Learning** | *AIP Conference Proceedings*
-* **Sales Analysis Using Data Mining** | *International Journal of Advanced Research in Science Communication and Technology*
+Exploring the intersection of technology, software quality assurance, systems and data infrastructure, and astronomy. Interested in Python programming, Linux, networking, API testing, web development, scientific imaging, and data analysis. Building projects that connect practical engineering with scientific discovery.
 
 ## 🌐 Connect With Me
 * 💼 **Professional Network:** [My LinkedIn Profile](https://linkedin.com/in/aimansheikh778)
